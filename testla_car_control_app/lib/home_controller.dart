@@ -1,6 +1,23 @@
 import 'package:flutter/material.dart';
 
 class HomeController extends ChangeNotifier {
+  // double _temperature = 29; // Initial temperature value
+
+  // double get temperature => _temperature;
+
+  // void updateTemperature(int change) {
+  //   _temperature += change;
+  //   // Add logic to handle temperature boundaries if necessary
+  // }
+
+  double temperature = 20; // Initial temperature value
+
+  void updateTemperature(double change) {
+    temperature += change;
+    // Make sure to call notifyListeners or use setState if using a StatefulWidget
+    notifyListeners();
+  }
+
   int selectedBottomTab = 0;
 
   void onBottomNavigationTabChange(int index) {
