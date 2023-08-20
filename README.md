@@ -10,16 +10,17 @@ Welcome to the Grocery App repository! This app is designed to showcase a grocer
 </div>
 
 # Testla Car Control App
+Welcome to the Testla Car Control App repository! This app is designed to demonstrate controlling a Tesla car interface using Flutter.
 
-![image](https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/1b50f073-9d22-4b8c-96b9-640233e78635)
-
-
-![image](https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/3f1c0209-66f0-4fbb-8d4e-bc5347b3ae25)
-
-![image](https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/9e0cd4d8-1f99-48e6-8728-ed55f1b40043)
-
-![image](https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/cb9d97dd-508f-48ca-a952-1282c08d1f91)
-
-![image](https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/59d36a1c-e1c5-4e85-a233-8bd2f29f2d42)
+## Screenshots
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/1b50f073-9d22-4b8c-96b9-640233e78635" width="200" alt="Testla Car Control App Screenshot 1">
+  <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/3f1c0209-66f0-4fbb-8d4e-bc5347b3ae25" width="200" alt="Testla Car Control App Screenshot 2">
+  <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/9e0cd4d8-1f99-48e6-8728-ed55f1b40043" width="200" alt="Testla Car Control App Screenshot 3">
+</div>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/cb9d97dd-508f-48ca-a952-1282c08d1f91" width="200" alt="Testla Car Control App Screenshot 4">
+  <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/59d36a1c-e1c5-4e85-a233-8bd2f29f2d42" width="200" alt="Testla Car Control App Screenshot 5">
+</div>
 
 
