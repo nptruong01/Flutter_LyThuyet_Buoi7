@@ -2,8 +2,6 @@
 
 # Grocery App
 
-Welcome to the Grocery App repository! This app is designed to showcase a grocery shopping user interface built using Flutter.
-
 ## Screenshots
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/nptruong01/Flutter_LyThuyet_Buoi7/assets/113322089/b8ba0bb4-d40f-40cf-9edc-6b64df8d73b1" width="200" alt="Grocery App Screenshot 1">
@@ -12,7 +10,6 @@ Welcome to the Grocery App repository! This app is designed to showcase a grocer
 </div>
 
 # Testla Car Control App
-Welcome to the Testla Car Control App repository! This app is designed to demonstrate controlling a Tesla car interface using Flutter.
 
 ## Screenshots
 <div align="center">
